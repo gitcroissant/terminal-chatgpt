@@ -1,0 +1,24 @@
+{
+  "name": "terminal-chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitcroissant/terminal-chatgpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitcroissant/terminal-chatgpt/issues"
+  },
+  "homepage": "https://github.com/gitcroissant/terminal-chatgpt#readme",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "dotenv": "^16.3.1",
+    "openai": "^4.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
